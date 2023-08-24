@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="chiconDataSet" targetNamespace="http://tempuri.org/chiconDataSet.xsd" xmlns:mstns="http://tempuri.org/chiconDataSet.xsd" xmlns="http://tempuri.org/chiconDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="chiconConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="chiconConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GestionChicon.Properties.Settings.GlobalReference.Default.chiconConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="participantTableAdapter" GeneratorDataComponentClassName="participantTableAdapter" Name="participant" UserDataComponentName="participantTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="chiconConnectionString (Settings)" DbObjectName="chicon.participant" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `sexe` FROM `participant`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="sexe" DataSetColumn="sexe" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="chiconDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="chiconDataSet" msprop:Generator_UserDSName="chiconDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="participant" msprop:Generator_TableClassName="participantDataTable" msprop:Generator_TableVarName="tableparticipant" msprop:Generator_TablePropName="participant" msprop:Generator_RowDeletingName="participantRowDeleting" msprop:Generator_RowChangingName="participantRowChanging" msprop:Generator_RowEvHandlerName="participantRowChangeEventHandler" msprop:Generator_RowDeletedName="participantRowDeleted" msprop:Generator_UserTableName="participant" msprop:Generator_RowChangedName="participantRowChanged" msprop:Generator_RowEvArgName="participantRowChangeEvent" msprop:Generator_RowClassName="participantRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sexe" msprop:Generator_ColumnVarNameInTable="columnsexe" msprop:Generator_ColumnPropNameInRow="sexe" msprop:Generator_ColumnPropNameInTable="sexeColumn" msprop:Generator_UserColumnName="sexe">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

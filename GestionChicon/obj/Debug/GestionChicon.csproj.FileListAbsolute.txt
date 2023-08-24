@@ -1,0 +1,64 @@
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe.config
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.pdb
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csprojResolveAssemblyReference.cache
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Chicon.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Properties.Resources.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.GenerateResource.Cache
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.CoreCompileInputs.cache
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.exe
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.pdb
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Creation_de_course.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Participants.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Participants_de_dernière_minute.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\MySql.Data.dll
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Google.Protobuf.dll
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Renci.SshNet.dll
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\MySql.Data.xml
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Etat_de_la_course.resources
+C:\Users\jujub\OneDrive\Bureau\Travail\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.impression.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe.config
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.pdb
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Google.Protobuf.dll
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Renci.SshNet.dll
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\MySql.Data.xml
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csprojAssemblyReference.cache
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Creation_de_course.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Etat_de_la_course.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Chicon.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Participants.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.impression.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Participants_de_dernière_minute.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Properties.Resources.resources
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.GenerateResource.cache
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.CoreCompileInputs.cache
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.CopyComplete
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.exe
+C:\Users\jujub\Desktop\Travail\BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.pdb
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe.config
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.exe
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\GestionChicon.pdb
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Google.Protobuf.dll
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\Renci.SshNet.dll
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\bin\Debug\MySql.Data.xml
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.AssemblyReference.cache
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Creation_de_course.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Etat_de_la_course.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Chicon.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Gestion_Participants.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.impression.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Participants_de_dernière_minute.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.Properties.Resources.resources
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.GenerateResource.cache
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.CoreCompileInputs.cache
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.csproj.CopyComplete
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.exe
+C:\Users\jujub\Documents\_Formations\2- BTS\BTS snir 2\Projet\programme gestion chicon\GestionChicon\GestionChicon\obj\Debug\GestionChicon.pdb

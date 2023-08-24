@@ -1,0 +1,1 @@
+database=chicon; server=localhost; user id=root; pwd=;
